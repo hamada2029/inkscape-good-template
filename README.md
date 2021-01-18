@@ -9,7 +9,7 @@ Illustrator CS6 ***can not*** open exactly some svgs.
 Please replace xx to your language and move to `~/.config/inkscape/templates/`.
 
 ## Why can not?
-####[stroke_bad.svg](stroke_bad.svg)
+***[stroke_bad.svg](stroke_bad.svg)***
 
     <svg width="600" height="600" viewBox="0 0 158.75 158.75"...
 
@@ -25,7 +25,7 @@ On Illustrator CS6.
 
 Too narrow !
 
-####[stroke_good.svg](stroke_good.svg)
+***[stroke_good.svg](stroke_good.svg)***
 
     <svg width="600" height="600" viewBox="0 0 600 600"...
     ...
